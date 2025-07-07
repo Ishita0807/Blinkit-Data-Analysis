@@ -48,7 +48,7 @@ To uncover key business insights from Blinkit's sales, marketing, and logistics 
 ## 🧠 Key Findings
 
 - **High Retention Rate:** 94% of customers placed repeat orders.  
-- **Delivery Issues in Q4:** Significant delays in November 2023.  
+- **Delivery Issues:** Significant delays in November 2023.  
 - **Top Product Category:** Pet Care and Dairy dominated revenue.  
 - **Marketing Drop-Off:** Only 1% of impressions led to conversions.  
 - **Inventory Damage:** Dish Soap had the highest damage percentage.
